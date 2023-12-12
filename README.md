@@ -1,6 +1,6 @@
 # Alura Play - Requests
 
-This project was created during the Alura's class *JavaScript: creating requests*. I used base HTML and CSS codes and developed a website while mocking an API. I added functionalities such as adding new videos and searching for videos using key words. I also handled possible errors.
+This project was created during Alura's class *JavaScript: creating requests*. I used base HTML and CSS codes and developed a website while mocking an API. I added functionalities such as adding new videos and searching for videos using key words. I also handled possible errors.
 
 To see the final result you can clone the repository and run the *db.json* file using json-server.
 
